@@ -1,3 +1,5 @@
+ import numpy as np
+ 
  class SDR:
      def __init__(self, path, NFFT):
          self.file_name = path
