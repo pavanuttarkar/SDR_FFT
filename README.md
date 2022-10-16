@@ -1,2 +1,2 @@
 # SDR_FFT
-SDR data.
+WARNING: There large bugs in the code, was in <20 mins for basic check :)
